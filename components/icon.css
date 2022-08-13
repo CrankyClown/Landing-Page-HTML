@@ -1,0 +1,9 @@
+.icon-container {
+  display: flex;
+  position: relative;
+}
+.icon-icon {
+  width: 24px;
+  height: 24px;
+  margin-right: var(--dl-space-space-doubleunit);
+}

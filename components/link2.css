@@ -1,0 +1,8 @@
+.link2-container {
+  display: flex;
+  position: relative;
+}
+.link2-link {
+  margin-right: var(--dl-space-space-tripleunit);
+  text-decoration: none;
+}
